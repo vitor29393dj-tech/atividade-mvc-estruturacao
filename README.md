@@ -18,3 +18,16 @@ Este projeto simula a estrutura de um sistema web organizado sob o padrão MVC.
 - **Melhoria aplicada:** Botões com textos claros e cores de alto contraste para facilitar a leitura.
 - **Navegação:** Menu simplificado para que o usuário encontre qualquer função em menos de 3 cliques.
 -
+---
+## 🚀 Progresso do Desenvolvimento - Parte 2
+
+### Status das Rotas
+- O arquivo `NavigationController.php` atua como o intermediário. Ao receber um comando da View, ele simula a validação e o redirecionamento para a tela correta.
+
+### Feedback ao Usuário
+- **Visual (CSS):** Botões configurados com alto contraste e efeito `:hover` no `style.css`.
+- **Interativo (JS):** Função no `main.js` que dispara um alerta e muda a cor da página para confirmar que a ação foi realizada.
+
+### Dificuldades Técnicas
+- O maior desafio foi garantir que cada arquivo estivesse na pasta correta seguindo o padrão MVC, especialmente ao criar subpastas (`css/`, `js/`) diretamente pelo site do GitHub.
+-
