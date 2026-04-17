@@ -1,1 +1,19 @@
+/* style.css - Foco em Acessibilidade e UX */
 
+button {
+    background-color: #1a202c; /* Fundo escuro */
+    color: #ffffff;           /* Letra clara (Alto Contraste) */
+    padding: 12px 24px;
+    border: 2px solid #4a5568;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+/* Regra de ouro: feedback visual ao passar o mouse */
+button:hover {
+    background-color: #2d3748;
+    border-color: #63b3ed;
+    transform: scale(1.05); /* Pequeno aumento para indicar clique */
+}
