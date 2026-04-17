@@ -17,7 +17,7 @@ Este projeto simula a estrutura de um sistema web organizado sob o padrão MVC.
 ### ♿ Acessibilidade e Usabilidade
 - **Melhoria aplicada:** Botões com textos claros e cores de alto contraste para facilitar a leitura.
 - **Navegação:** Menu simplificado para que o usuário encontre qualquer função em menos de 3 cliques.
--
+
 ---
 ## 🚀 Progresso do Desenvolvimento - Parte 2
 
@@ -30,4 +30,4 @@ Este projeto simula a estrutura de um sistema web organizado sob o padrão MVC.
 
 ### Dificuldades Técnicas
 - O maior desafio foi garantir que cada arquivo estivesse na pasta correta seguindo o padrão MVC, especialmente ao criar subpastas (`css/`, `js/`) diretamente pelo site do GitHub.
--
+
